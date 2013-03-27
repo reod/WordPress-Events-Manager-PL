@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Events Manager v5.3.5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-27 11:10+0100\n"
+"PO-Revision-Date: 2013-03-27 20:13+0100\n"
 "Last-Translator: Remek Ambroziak <remek.ambroziak@gmail.com>\n"
 "Language-Team: Remek Ambroziak <remek.ambroziak@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -646,7 +646,7 @@ msgstr ""
 #: templates/forms/ticket-form.php:39
 #: templates/forms/tickets-form.php:10
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 # @ dbem
 #: admin/em-bookings.php:177
@@ -656,37 +656,37 @@ msgstr ""
 #: templates/forms/ticket-form.php:16
 #: templates/forms/tickets-form.php:11
 msgid "Price"
-msgstr ""
+msgstr "Cena"
 
 # @ dbem
 #: admin/em-bookings.php:179
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 # @ dbem
 #: admin/em-bookings.php:180
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 # @ dbem
 #: admin/em-bookings.php:181
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 # @ dbem
 #: admin/em-bookings.php:182
 msgid "End"
-msgstr ""
+msgstr "Koniec"
 
 # @ dbem
 #: admin/em-bookings.php:214
 msgid "Edit Booking"
-msgstr ""
+msgstr "Edytuj rezerwację"
 
 # @ dbem
 #: admin/em-bookings.php:222
 msgid "Event Details"
-msgstr ""
+msgstr "Szczegóły wydarzenia"
 
 # @ dbem
 #: admin/em-bookings.php:233
@@ -698,33 +698,33 @@ msgstr "Data/Czas"
 #: admin/em-bookings.php:246
 #: admin/em-bookings.php:479
 msgid "Personal Details"
-msgstr ""
+msgstr "Szczegóły osobiste"
 
 # @ dbem
 #: admin/em-bookings.php:255
 msgid "Booking Details"
-msgstr ""
+msgstr "Szczegóły rezerwacji"
 
 # @ dbem
 #: admin/em-bookings.php:268
 msgid "Change"
-msgstr ""
+msgstr "Zmiana"
 
 # @ dbem
 #: admin/em-bookings.php:269
 msgid "Resend Email"
-msgstr ""
+msgstr "Wyślij e-mail ponownie"
 
 # @ dbem
 #: admin/em-bookings.php:283
 msgid "Send Email"
-msgstr ""
+msgstr "Wyślij e-mail"
 
 # @ dbem
 #: admin/em-bookings.php:284
 #: admin/em-bookings.php:373
 msgid "Submit Changes"
-msgstr ""
+msgstr "Zatwierdź zmiany"
 
 # @ dbem
 #: admin/em-bookings.php:285
@@ -735,7 +735,7 @@ msgstr ""
 #: em-install.php:571
 #: templates/templates/my-bookings.php:69
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 # @ dbem
 #: admin/em-bookings.php:290
@@ -746,40 +746,40 @@ msgstr ""
 #: admin/em-bookings.php:297
 #: classes/em-tickets.php:206
 msgid "Ticket Type"
-msgstr ""
+msgstr "Typ biletu"
 
 # @ dbem
 #: admin/em-bookings.php:336
 msgid "Total Price"
-msgstr ""
+msgstr "Cena całkowita"
 
 # @ dbem
 #: admin/em-bookings.php:337
 #, php-format
 msgid "%d Spaces"
-msgstr ""
+msgstr "%d miejsc"
 
 # @ dbem
 #: admin/em-bookings.php:342
 msgid "Tax"
-msgstr ""
+msgstr "Podatek"
 
 # @ dbem
 #: admin/em-bookings.php:347
 msgid "Total Price (inc. tax)"
-msgstr ""
+msgstr "Cena całkowita (z podatkiem)"
 
 # @ dbem
 #: admin/em-bookings.php:358
 #: templates/forms/bookingform/booking-fields.php:26
 #: templates/templates/bookings-event-printable.php:28
 msgid "Comment"
-msgstr ""
+msgstr "Komentarz"
 
 # @ dbem
 #: admin/em-bookings.php:368
 msgid "Modify Booking"
-msgstr ""
+msgstr "Modyfikuj rezerwację"
 
 # @ dbem
 #: admin/em-bookings.php:371
@@ -789,37 +789,37 @@ msgstr ""
 # @ dbem
 #: admin/em-bookings.php:410
 msgid "Booking Notes"
-msgstr ""
+msgstr "Uwagi rezerwacji"
 
 # @ dbem
 #: admin/em-bookings.php:413
 msgid "You can add private notes below for internal reference that only event managers will see."
-msgstr ""
+msgstr "Poniżej możesz dodać swoje uwagi, które będą widoczne tylko dla obsługi wydarzenia."
 
 # @ dbem
 #: admin/em-bookings.php:418
 msgid "wrote"
-msgstr ""
+msgstr "napisz"
 
 # @ dbem
 #: admin/em-bookings.php:464
 msgid "Manage Person's Booking"
-msgstr ""
+msgstr "Zarządzaj ustawieniami rezerwacji"
 
 # @ dbem
 #: admin/em-bookings.php:466
 msgid "Edit User"
-msgstr ""
+msgstr "Edytuj użytkownika"
 
 # @ dbem
 #: admin/em-bookings.php:469
 msgid "Delete User"
-msgstr ""
+msgstr "Usuń użytkownika"
 
 # @ dbem
 #: admin/em-bookings.php:491
 msgid "Past And Present Bookings"
-msgstr ""
+msgstr "Poprzednie i przyszłe rezerwacje"
 
 # @ dbem
 #: admin/em-help.php:25
@@ -863,17 +863,17 @@ msgstr ""
 # @ dbem
 #: admin/em-ms-locations.php:38
 msgid "Add location"
-msgstr ""
+msgstr "Dodaj miejsce"
 
 # @ dbem
 #: admin/em-ms-locations.php:41
 msgid "Edit location"
-msgstr ""
+msgstr "Edytuj miejsce"
 
 # @ default
 #: admin/em-ms-options.php:6
 msgid "Update Network"
-msgstr ""
+msgstr "Uaktualnij sieć"
 
 # @ default
 #: admin/em-ms-options.php:31
@@ -883,7 +883,7 @@ msgstr ""
 # @ dbem
 #: admin/em-ms-options.php:34
 msgid "Update"
-msgstr ""
+msgstr "Uaktualnij"
 
 # @ dbem
 #: admin/em-ms-options.php:63
@@ -915,39 +915,39 @@ msgstr ""
 #: admin/em-options.php:247
 #: admin/em-options.php:1647
 msgid "Save Changes"
-msgstr ""
+msgstr "Zapisz zmiany"
 
 # @ dbem
 #: admin/em-ms-options.php:68
 #: admin/em-options.php:247
 #: classes/em-bookings-table.php:53
 msgid "All"
-msgstr ""
+msgstr "Wszystko"
 
 # @ dbem
 #: admin/em-ms-options.php:73
 #: admin/em-options.php:252
 msgid "Collapse All"
-msgstr ""
+msgstr "Ukryj wszystko"
 
 # @ dbem
 #: admin/em-ms-options.php:74
 #: admin/em-options.php:253
 msgid "Expand All"
-msgstr ""
+msgstr "Rozwiń wszystko"
 
 # @ dbem
 #: admin/em-ms-options.php:143
 #: admin/em-options.php:327
 #: admin/em-options.php:1382
 msgid "General"
-msgstr ""
+msgstr "Główne"
 
 # @ dbem
 #: admin/em-ms-options.php:145
 #: admin/em-options.php:335
 msgid "Event Manager Options"
-msgstr ""
+msgstr "Opcje Menadżera Wydarzeń"
 
 # @ dbem
 #: admin/em-ms-options.php:155
@@ -985,12 +985,12 @@ msgstr ""
 #: admin/em-options.php:1764
 #: admin/em-options.php:1883
 msgid "Click to toggle"
-msgstr ""
+msgstr "Kliknij, by zmienić stan"
 
 # @ dbem
 #: admin/em-ms-options.php:155
 msgid "Multi Site Options"
-msgstr ""
+msgstr "Ustawienia dla wielu stron"
 
 # @ dbem
 #: admin/em-ms-options.php:159
@@ -1035,7 +1035,7 @@ msgstr ""
 #: admin/em-options.php:1481
 #, php-format
 msgid "%s Options"
-msgstr ""
+msgstr "%s Ustawienia"
 
 # @ dbem
 #: admin/em-ms-options.php:170
@@ -1073,7 +1073,7 @@ msgstr ""
 #: events-manager.php:416
 #: events-manager.php:417
 msgid "events"
-msgstr ""
+msgstr "wydarzenia"
 
 # @ dbem
 #: admin/em-ms-options.php:171
@@ -1097,7 +1097,7 @@ msgstr ""
 #: classes/em-event.php:675
 #: classes/em-event.php:688
 msgid "event"
-msgstr ""
+msgstr "wydarzenie"
 
 # @ dbem
 #: admin/em-ms-options.php:172
@@ -1110,12 +1110,12 @@ msgstr ""
 #: admin/em-ms-options.php:172
 #: admin/em-ms-options.php:181
 msgid "Example:"
-msgstr ""
+msgstr "Przykład:"
 
 # @ dbem
 #: admin/em-ms-options.php:174
 msgid "Locations on main blog?"
-msgstr ""
+msgstr "miejsce czy główny post?"
 
 # @ dbem
 #: admin/em-ms-options.php:174
@@ -1151,7 +1151,7 @@ msgstr ""
 #: events-manager.php:431
 #: events-manager.php:432
 msgid "locations"
-msgstr ""
+msgstr "miejsca"
 
 # @ dbem
 #: admin/em-ms-options.php:174
@@ -1183,7 +1183,7 @@ msgstr "miejsce"
 # @ dbem
 #: admin/em-options.php:67
 msgid "Changes saved."
-msgstr ""
+msgstr "Zmiany zostały zapisane."
 
 # @ dbem
 #: admin/em-options.php:139
@@ -1199,28 +1199,28 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:159
 msgid "Checking for dev versions."
-msgstr ""
+msgstr "Sprawdzanie najnowszej wersji developerskiej. "
 
 # @ dbem
 #: admin/em-options.php:169
 msgid "Events Manager Test Email"
-msgstr ""
+msgstr "Email testowy Menadżera Wydarzeń"
 
 # @ dbem
 #: admin/em-options.php:170
 msgid "Congratulations! Your email settings work."
-msgstr ""
+msgstr "Wielkie brawa! Wygląda na to, że twoje usawienia poczty działają."
 
 # @ dbem
 #: admin/em-options.php:176
 #, php-format
 msgid "Email sent succesfully to %s"
-msgstr ""
+msgstr "Wiadomość wysłana poprawnie do %s adresów."
 
 # @ dbem
 #: admin/em-options.php:181
 msgid "Email not sent."
-msgstr ""
+msgstr "Wiadomość nie została wysłana."
 
 # @ dbem
 #: admin/em-options.php:195
@@ -1270,12 +1270,12 @@ msgstr ""
 #: admin/em-options.php:587
 #: admin/em-options.php:752
 msgid "Pages"
-msgstr ""
+msgstr "Strony"
 
 # @ dbem
 #: admin/em-options.php:329
 msgid "Formatting"
-msgstr ""
+msgstr "Formatowanie"
 
 # @ dbem
 #: admin/em-options.php:333
@@ -1595,7 +1595,7 @@ msgstr ""
 #: admin/em-options.php:458
 #: admin/em-options.php:1883
 msgid "Advanced"
-msgstr ""
+msgstr "Zaawansowane"
 
 # @ dbem
 #: admin/em-options.php:461
@@ -1610,7 +1610,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:464
 msgid "Warning!"
-msgstr ""
+msgstr "Ostrzeżenie!"
 
 # @ dbem
 #: admin/em-options.php:464
@@ -1621,7 +1621,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:467
 msgid "JavaScript Files"
-msgstr ""
+msgstr "Pliki JavaScript"
 
 # @ dbem
 #: admin/em-options.php:468
@@ -1632,7 +1632,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:471
 msgid "Limit JS file loading?"
-msgstr ""
+msgstr "Ograniczyć ładowanie plików js?"
 
 # @ dbem
 #: admin/em-options.php:471
@@ -1657,7 +1657,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:482
 msgid "Search Forms"
-msgstr ""
+msgstr "Formularz wyszukiwania"
 
 # @ dbem
 #: admin/em-options.php:482
@@ -1683,7 +1683,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:488
 msgid "CSS File"
-msgstr ""
+msgstr "Plik CSS"
 
 # @ dbem
 #: admin/em-options.php:491
@@ -1778,7 +1778,7 @@ msgstr ""
 #: em-posts.php:87
 #: em-posts.php:90
 msgid "Event Categories"
-msgstr ""
+msgstr "Kategorie wydarzeń"
 
 # @ dbem
 # @ default
@@ -1788,7 +1788,7 @@ msgstr ""
 #: em-posts.php:50
 #: em-posts.php:53
 msgid "Event Tags"
-msgstr ""
+msgstr "Tagi wydarzeń"
 
 # @ dbem
 #: admin/em-options.php:583
@@ -1796,20 +1796,20 @@ msgstr ""
 #: admin/em-options.php:1008
 #, php-format
 msgid "%s Pages"
-msgstr ""
+msgstr "%s Strony"
 
 # @ dbem
 #: admin/em-options.php:587
 #: admin/em-options.php:752
 #, php-format
 msgid "Display %s as"
-msgstr ""
+msgstr "Wyświetl %s jako"
 
 # @ default
 #: admin/em-options.php:587
 #: admin/em-options.php:752
 msgid "Posts"
-msgstr ""
+msgstr "Posty"
 
 # @ dbem
 #: admin/em-options.php:588
@@ -1825,7 +1825,7 @@ msgstr ""
 #: admin/em-options.php:589
 #: admin/em-options.php:754
 msgid "Enable Comments?"
-msgstr ""
+msgstr "Włączyć komentarze?"
 
 # @ dbem
 #: admin/em-options.php:589
@@ -1844,7 +1844,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:601
 msgid "Events page"
-msgstr ""
+msgstr "Strona wydarzenia"
 
 # @ dbem
 #: admin/em-options.php:603
@@ -1862,7 +1862,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:610
 msgid "Show events search?"
-msgstr ""
+msgstr "Pokazać wyszukiwarkę wydarzeń?"
 
 # @ dbem
 #: admin/em-options.php:610
@@ -2161,14 +2161,14 @@ msgstr ""
 #: templates/tables/locations.php:39
 #: templates/tables/locations.php:48
 msgid "Country"
-msgstr ""
+msgstr "Kraj"
 
 # @ dbem
 #: admin/em-options.php:794
 #: admin/em-options.php:844
 #: classes/em-location-posts-admin.php:56
 msgid "Town"
-msgstr ""
+msgstr "Miasto"
 
 # @ dbem
 #: admin/em-options.php:838
@@ -2203,7 +2203,7 @@ msgstr ""
 #: em-install.php:802
 #: em-install.php:852
 msgid "Categories"
-msgstr ""
+msgstr "Kategorie"
 
 # @ dbem
 #: admin/em-options.php:890
@@ -2222,7 +2222,7 @@ msgstr ""
 #: events-manager.php:435
 #: events-manager.php:436
 msgid "categories"
-msgstr ""
+msgstr "kategorie"
 
 # @ dbem
 #: admin/em-options.php:899
@@ -2245,7 +2245,7 @@ msgstr "kategoria"
 #: admin/em-options.php:933
 #: classes/em-categories-taxonomy.php:19
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 # @ dbem
 #: admin/em-options.php:934
@@ -2271,7 +2271,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:980
 msgid "tags"
-msgstr ""
+msgstr "tagi"
 
 # @ default
 #: admin/em-options.php:1010
@@ -2290,12 +2290,12 @@ msgstr ""
 #: em-install.php:814
 #: em-install.php:867
 msgid "My Bookings"
-msgstr ""
+msgstr "Moja rezerwacja"
 
 # @ dbem
 #: admin/em-options.php:1017
 msgid "My bookings"
-msgstr ""
+msgstr "Moje rezerwacje"
 
 # @ dbem
 #: admin/em-options.php:1021
@@ -2307,7 +2307,7 @@ msgstr ""
 #: events-manager.php:409
 #: events-manager.php:410
 msgid "bookings"
-msgstr ""
+msgstr "rezerwacje"
 
 # @ dbem
 #: admin/em-options.php:1031
@@ -2318,7 +2318,7 @@ msgstr "Data rozpoczęcia"
 #: admin/em-options.php:1032
 #: classes/em-bookings-table.php:86
 msgid "Booking Date"
-msgstr ""
+msgstr "Data rezerwacji"
 
 # @ dbem
 #: admin/em-options.php:1058
@@ -2333,7 +2333,7 @@ msgstr ""
 # @ dbem
 #: admin/em-options.php:1061
 msgid "Edit events"
-msgstr ""
+msgstr "Edytuj wydarzenie"
 
 # @ dbem
 #: admin/em-options.php:1065
