@@ -4,6 +4,7 @@ Nie nadaje się ona **absolutnie** i **w żadnym wypadku** do codziennego użytk
 ## WordPress Events Manager – spolszczenie
 ## Changelog
 
+* `sob, 11 maj 2014, 15:30:58 CET` _(aktualna)_ – 54%, bez jakiejkolwiek korekty
 * `śro, 27 mar 2013, 20:19:58 CET` _(aktualna)_ – 12%, bez jakiejkolwiek korekty
 
 
